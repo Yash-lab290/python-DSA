@@ -18,7 +18,7 @@ class Solution(object):
                 right = mid - 1
         return False
 S = Solution()
-result = S.isPerfectSquare(13)  
+result = S.isPerfectSquare(16)  
 print(result)       
 
     
